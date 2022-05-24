@@ -12,7 +12,7 @@ const CreditCard = (props) => {
 
   const cardStyle = {
     backgroundColor: `${bgColor}`,
-    color: `${color}`
+    color: `${color}`,
 }
 
 let secretNum = number.substring(12, 16)
