@@ -40,9 +40,10 @@
 
 .card {
   display: flex;
-  align-items: flex-start;
+  /* align-items: flex-start; */
   border: 2px solid black;
-  margin: 10px;
+  padding: 0;
+  margin: 0;
 }
 
 .info {
@@ -65,4 +66,14 @@
   justify-content: space-evenly;
   align-items: center;
   align-content: center;
+}
+
+.driverCard img  {
+  width: 70px;
+}
+
+.driverCard {
+  background-color: blue;
+  width: 1070px;
+  color: white;
 }

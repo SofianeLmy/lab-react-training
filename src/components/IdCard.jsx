@@ -20,7 +20,7 @@ function IdCard(props) {
         </p>
         <p>
           <strong>Height:</strong>
-          {height / 100}
+          {height / 100}m
         </p>
         <p>
           <strong>Birth:</strong>
